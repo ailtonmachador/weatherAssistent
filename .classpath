@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/lib/javafx.base.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/lib/javafx.controls.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/lib/javafx.fxml.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/lib/javafx.graphics.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/lib/javafx.media.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/lib/javafx.swing.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/lib/javafx.web.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/openjfx-20.0.2_windows-x64_bin-sdk/javafx-sdk-20.0.2/lib/javafx-swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/jlPlayer/jlayer-1.0.1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/jlPlayer/junit-3.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/jakartaMail/jakarta.mail-1.2.2.1-jre17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/json/json-20230618.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/okhttp3/annotations-13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/okhttp3/kotlin-stdlib-1.6.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/okhttp3/kotlin-stdlib-common-1.6.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/okhttp3/kotlin-stdlib-jdk7-1.6.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/okhttp3/kotlin-stdlib-jdk8-1.6.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/okhttp3/okhttp-4.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/okhttp3/okio-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/okhttp3/okio-jvm-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/graalvm/graal-sdk-21.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/graalvm/icu4j-71.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/graalvm/js-21.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/graalvm/regex-21.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/graalvm/truffle-api-21.3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/gson/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/graalvmCompiler/compiler-23.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/graalvmCompiler/graal-sdk-23.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/graalvmCompiler/truffle-api-23.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/junior machado/Downloads/json-simple-1.1.1 (1).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
